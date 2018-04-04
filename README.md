@@ -9,9 +9,11 @@ C#.NET comprehensive training , C# + HTML + CSS + .NET + MySQL + VS2012
 
 一、account
 
-  id : char(10) not null 
+、、、
+  id : char(10) not null   
   password : varchar(20) not null
-  
+、、、
+
 二、course
 
   courseNo : char(10) not null primary key
