@@ -1,0 +1,107 @@
+﻿body {
+    /*margin:0;
+    padding:0;*/
+}
+.container{
+    width:1200px;
+    height:100%;
+    background-image:url("images/back.jpg");
+    color:#fff;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:0;
+    margin-bottom:0;
+    /*background-color:#e7e1e1;*/
+    border:1px solid black;
+    background-size:cover;
+}
+    .container .title
+    {
+        text-align: center;
+        font-size:30px;
+        height:250px;
+        box-sizing:border-box;
+        padding-top:130px;
+        font-size:40px;
+    }
+    .container .login
+    {
+        width: 100%;
+    }
+        .container .login .name
+        {
+            width:100%;
+            padding-right:20px;
+            box-sizing:border-box;
+            height:50px;
+        }
+            .container .login .name .text
+            {
+                width:42%;
+                float:left;
+                text-align:right;
+                font-size:20px;
+                letter-spacing:2px;
+            }
+            #nameVal,#passwordVal
+            {
+                width:300px;
+                height:20px;
+                border-bottom:1px solid #fff;
+                border-top:none;
+                border-left:none;
+                border-right:none;
+                outline:none;
+                background-color:transparent;
+                color:#fff;
+                outline:none;
+                -webkit-appearance:none;
+                background:rgba(0,0,0,0);
+            }
+            .container .login .name .val {
+                width:58%;
+                float:left;
+             
+            }
+            
+        .container .login .password
+        {
+            width:100%;
+            padding-right:20px;
+            box-sizing:border-box;
+            height:50px;
+        }
+            .container .login .password .text
+            {
+                width:42%;
+                float:left;
+                text-align:right;
+                font-size:20px;
+                letter-spacing:2px;
+            }
+            .container .login .password .val
+            {
+                width:58%;
+                float:left;
+            }
+
+    .container .botton
+    {
+        width:100%;
+        text-align:center;
+    }
+.botton
+{
+    width:100%;
+    margin-top:30px;
+}
+#Login,#Register
+{
+    width:110px;
+    height:30px;
+    border-radius:5px;
+    background-color:#0e0808;
+    color:#fff;
+    font-size:18px;
+}
+        

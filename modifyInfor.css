@@ -1,0 +1,24 @@
+﻿body {
+}
+#ContentPlaceHolder1_reset
+{
+    width:150px;
+    height:40px;
+    background-color:#367feb;
+    color:#fff;
+    border-radius:20px;
+    margin-top:50px;
+    margin-left:30%;
+    margin-right:70px;
+    float:left;
+}
+#ContentPlaceHolder1_submit
+{
+    width:150px;
+    height:40px;
+    background-color:#367feb;
+    color:#fff;
+    border-radius:20px;
+    margin-top:50px;
+    float:left;
+}
